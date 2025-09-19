@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Project folders
+Documents/
+output/
+vectorstore/
+
+# Environment file
+.env
+
